@@ -343,23 +343,3 @@ Application Type: Streamlit Web Application
 Main Areas: NLP, Machine Learning, Resume Analysis, Job Matching and Career Recommendation
 
 
-### Where to put it
-
-In VS Code:
-
-**Right-click `AI-CareerAssist` → New File → `README.md`**
-
-Then paste the complete content above and press **Ctrl + S**.
-
-Your project root should look like:
-
-```text
-AI-CareerAssist
-├── README.md             ← ⭐ NEW
-├── ML_EVALUATION.md
-├── app
-├── data
-├── docs
-├── notebooks
-├── src
-└── tests
