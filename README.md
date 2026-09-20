@@ -341,5 +341,5 @@ Domain: Artificial Intelligence and Machine Learning
 Application Type: Streamlit Web Application
 
 Main Areas: NLP, Machine Learning, Resume Analysis, Job Matching and Career Recommendation
-
+  this is web page link://localhost:8501/
 
